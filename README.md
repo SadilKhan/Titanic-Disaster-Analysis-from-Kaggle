@@ -1,4 +1,4 @@
-# Titanic-Disaster-Analysis-from-Kaggle
+# Titanic Disaster Analysis
 
 This is the legendary Titanic ML competition.
 
